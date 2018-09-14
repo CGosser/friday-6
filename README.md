@@ -23,7 +23,7 @@
  to run around 500/month
  the best websites seem to belong to [wework]( https://www.wework.com/l/portland--OR?utm_campaign=1412043062&utm_term=57408665722&utm_content=273341533136&utm_source=ads-google&utm_medium=cpc&gclid=EAIaIQobChMI4c3novO63QIVUWB-Ch2Iewh_EAAYASAAEgKmmvD_BwE&gclsrc=aw.ds), [CoLab](https://colab.one/?gclid=EAIaIQobChMI1ZXpnPC63QIVBdVkCh3-jA9kEAAYASAAEgK0kfD_BwE), and [CENTRL](https://centrloffice.com/) which seem to display a lot of relevant info on the front page, while also keeping with the theme they seem to have going in their workspaces.  From these I've determined that the important things needed to keep with the clients desires are to make sure that the color scheme from the photos displayed on the page and the fonts resemble or compliment the aesthetics of the provided photos. Also make sure to keep in mind that they want something that seems "luxurious"
 
-##### _sections needed:_
+##### _sections:_
 * landing page
 * plans and pricing
 * contact us
@@ -31,3 +31,9 @@
 * user page
 * schedule a tour
 * enterprise
+
+#### _sketches:_
+![sketch 1]{img/unnamed.jpg}
+![sketch 2]{img/unnamed-1.jpg}
+![sketch 3]{img/unnamed-2.jpg}
+![sketch 4]{img/unnamed-3.jpg}
