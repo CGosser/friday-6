@@ -30,3 +30,4 @@
 * amenities
 * user page
 * schedule a tour
+* enterprise
