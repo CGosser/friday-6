@@ -33,7 +33,7 @@
 * enterprise
 
 #### _sketches:_
-![sketch 1]{img/unnamed.jpg}
-![sketch 2]{img/unnamed-1.jpg}
-![sketch 3]{img/unnamed-2.jpg}
-![sketch 4]{img/unnamed-3.jpg}
+![sketch 1](img/unnamed.jpg)
+![sketch 2](img/unnamed-1.jpg)
+![sketch 3](img/unnamed-2.jpg)
+![sketch 4](img/unnamed-3.jpg)
