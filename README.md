@@ -11,8 +11,14 @@
 * Andrew Bedor
   * This is an exciting space to work on my designs
   * needs: I really want to know more about the coffee counter, also keeping track of what optional events there are on Thursdays is a must.
+  * pain points: I don't like to read a whole paragraph just to get to a single piece of information.
 
-* Gretia Fortrast
+* Gretia Forthrast
   * I need a place to really crack down on work.
   * needs: I really need to make sure this is the right place for me, I'm researching my options before trying anything.
   * pain points: I'm not really a tech person, I'd rather avoid too much of that sort of thing, so I'd really just rather find the phone number and call with my questions.
+
+#### _research and conclusions:_
+ pricing tends to be about 295/month for co working, and dedicated desks tend
+ to run around 500/month
+ the best websites seem to belong to [wework] ( https://www.wework.com/l/portland--OR?utm_campaign=1412043062&utm_term=57408665722&utm_content=273341533136&utm_source=ads-google&utm_medium=cpc&gclid=EAIaIQobChMI4c3novO63QIVUWB-Ch2Iewh_EAAYASAAEgKmmvD_BwE&gclsrc=aw.ds) and [CoLab] (https://colab.one/?gclid=EAIaIQobChMI1ZXpnPC63QIVBdVkCh3-jA9kEAAYASAAEgK0kfD_BwE), which seem to display a lot of relevant info on the front page, while also having a hip and stylish design. 
