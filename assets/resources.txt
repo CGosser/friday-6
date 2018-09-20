@@ -1,0 +1,4 @@
+Logopink D99493
+Background 85A1AC
+Text brown 979797
+open .svg in atom, add cla              ss to html, add css to svg and {path{fill: D99493}
