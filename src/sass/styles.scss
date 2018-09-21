@@ -23,5 +23,12 @@ body{
   background-color: $background;
 }
 .hero{
-  background-image: url("img/entrance.png");
+  background-image: url("https://uc86361e10ad5af14c7d691fb9e3.dl.dropboxusercontent.com/cd/0/inline/ARGqeUPexG23B4hRGeIDQmUmdYOO50S_lBeNnegEY4GMgdYjCEw9HmvTGPqv691Hd0Fcula2jLvIwicMdkGX5fhPBuj28BJzSStsR3DoQWF70uW8_jZmu3upMpTgK8WOE9eXdPdHf2kPE5ojeF0vXSi1f3R-SApkcpANP7MS4lIoFJGmU93q4pqN66CmrcbfiK8/file");
+  width: 375px;
+  height: 150px;
+  background-size:contain;
+  background-repeat:no-repeat;
+  svg{
+    height:150px;
+  }
 }
