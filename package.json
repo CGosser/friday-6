@@ -4,7 +4,8 @@
   "description": "* Alexi Fedor\r   * I'm looking for a place to get work done without the distractions of home\r   * needs: I need to know basic info like hours of operation and pricing, I'd also like to pay online.\r   * pain points: I'm liable to just not bother if it's too hard to find the elements of the site I want to access.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack --mode development",
+    "start": "webpack-dev-server --mode development --open"
   },
   "repository": {
     "type": "git",
@@ -18,7 +19,13 @@
   },
   "homepage": "https://github.com/cgosser/friday-6#readme",
   "devDependencies": {
+    "css-loader": "^0.28.10",
+    "html-webpack-plugin": "^3.2.0",
+    "node-sass": "^4.9.3",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.20.2",
     "webpack": "^4.0.1",
-    "webpack-cli": "^2.0.9"
+    "webpack-cli": "^2.0.9",
+    "webpack-dev-server": "^3.1.0"
   }
 }
