@@ -1,0 +1,24 @@
+{
+  "name": "friday-6",
+  "version": "1.0.0",
+  "description": "* Alexi Fedor\r   * I'm looking for a place to get work done without the distractions of home\r   * needs: I need to know basic info like hours of operation and pricing, I'd also like to pay online.\r   * pain points: I'm liable to just not bother if it's too hard to find the elements of the site I want to access.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgosser/friday-6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgosser/friday-6/issues"
+  },
+  "homepage": "https://github.com/cgosser/friday-6#readme",
+  "devDependencies": {
+    "webpack": "^4.0.1",
+    "webpack-cli": "^2.0.9"
+  }
+}
