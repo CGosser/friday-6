@@ -23,10 +23,11 @@ body{
   background-color: $background;
 }
 .hero{
-  background-image: url("https://uc86361e10ad5af14c7d691fb9e3.dl.dropboxusercontent.com/cd/0/inline/ARGqeUPexG23B4hRGeIDQmUmdYOO50S_lBeNnegEY4GMgdYjCEw9HmvTGPqv691Hd0Fcula2jLvIwicMdkGX5fhPBuj28BJzSStsR3DoQWF70uW8_jZmu3upMpTgK8WOE9eXdPdHf2kPE5ojeF0vXSi1f3R-SApkcpANP7MS4lIoFJGmU93q4pqN66CmrcbfiK8/file");
+  background-image: url("https://uc59de8e4ab9a6882d16019f1a74.dl.dropboxusercontent.com/cd/0/inline/ARQmiFvpvvt0Krojs2G-V2CSKlIU7I5ZMsPAgyM1e75HDz-AB9x771DxVjCyWbYDFF6uvIY7G35iN3yihtvuv30DZdroaxjKafefp3YTeFa1XlLOsTqjFBxmqcuZRrAuuTsZOJ1kSrJrtxeWI8zpUCgQ-LwoB3KYAGdPB41tUxaQqwQ_lkoCZ-8fHaBBcvxxX4E/file");
   width: 375px;
   height: 150px;
-  background-size: contain;
+  display: flex;
+  background-size: cover;
   background-repeat: no-repeat;
   svg {
     position: relative;
@@ -34,5 +35,7 @@ body{
     width: 50%;
     margin-left: auto;
     margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
   }
 }
