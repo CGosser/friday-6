@@ -1,6 +1,15 @@
-### _co-work website_
+# _co-work website_
 
-#### _this is a website for a fictitious co-working start up._
+## _this is a design of the mobile version of the website of a fictitious co-working start up_
+
+## _installation_
+* use the following command line commands
+  ```
+  git clone https://github.com/CGosser/friday-6.git
+  cd fakepath/friday-6
+  npm install
+  npm run start
+  ```
 
 #### _user stories:_
 * Alexi Fedor
@@ -33,11 +42,16 @@
 * enterprise
 
 #### _sketches:_
-![sketch 1](img/unnamed.jpg)
-![sketch 2](img/unnamed-1.jpg)
-![sketch 3](img/unnamed-2.jpg)
-![sketch 4](img/unnamed-3.jpg)
+![sketch 1](src/img/unnamed.jpg)
+![sketch 2](src/img/unnamed-1.jpg)
+![sketch 3](src/img/unnamed-2.jpg)
+![sketch 4](src/img/unnamed-3.jpg)
 
 
 #### _page pictures_
-![wireframes](img/wireframe.png)
+##### sketch wireframes
+![wireframes](src/img/wireframe.png)
+
+##### page as it currently looks
+
+![screenshot](src/img/screenshot.png)
