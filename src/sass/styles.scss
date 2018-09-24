@@ -5,6 +5,8 @@
 *{
   margin: 0;
   padding: 0;
+  color: $text;
+  font-family:arial;
 }
 .logo{
   width: 30%;
@@ -29,6 +31,7 @@ body{
   display: flex;
   background-size: cover;
   background-repeat: no-repeat;
+
   svg {
     position: relative;
     height: 100px;
@@ -38,4 +41,21 @@ body{
     margin-top: auto;
     margin-bottom: auto;
   }
+}
+.bodyContent{
+  display:flex;
+  .bodyLeft {
+    @include column;
+  }
+  .bodyRight {
+    @include column;
+  }
+}
+
+.panel{
+  background-color: lighten($background, 10%);
+  border-width: 3px;
+  border-style: solid;
+  border-color: darken($background, 5%);
+  border-radius: 15px;
 }
