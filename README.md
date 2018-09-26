@@ -42,16 +42,16 @@
 * enterprise
 
 #### _sketches:_
-![sketch 1](src/img/unnamed.jpg)
-![sketch 2](src/img/unnamed-1.jpg)
-![sketch 3](src/img/unnamed-2.jpg)
-![sketch 4](src/img/unnamed-3.jpg)
+![sketch 1](readmeimg/unnamed.jpg)
+![sketch 2](readmeimg/unnamed-1.jpg)
+![sketch 3](readmeimg/unnamed-2.jpg)
+![sketch 4](readmeimg/unnamed-3.jpg)
 
 
 #### _page pictures_
 ##### sketch wireframes
-![wireframes](src/img/wireframe.png)
+![wireframes](readmeimg/wireframe.png)
 
 ##### page as it currently looks
 
-![screenshot](src/img/screenshot.png)
+![screenshot](readmeimg/screenshot.png)
